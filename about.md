@@ -1,7 +1,10 @@
 ---
 layout: page
-title: Elements
+title: About Me
+excerpt: Let's get to know each other
 nav-menu: true
+tile_weight: 0
+show_tile: true
 ---
 
 <!-- Main -->
@@ -11,20 +14,31 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Elements</h1>
+			<h1>About Me</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
-<p>Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
+<h2 id="content">A Brief Overview</h2>
+<p>I'm a data analytics specialist and software engineer. I love the journey as much as the destination; I thrive on challenges that deliver results.
+</p>
+<p>I'm a partner with <a href="https://www.vaxagroup.com">Vaxa Group</a> and we collectively provide services in business advisory, communications and project support. My arm of the business is Vaxa Tech, and we can help you uncover and understand your data and software challenges and translate these into commercial and operational outcomes for your organisation. In plain english (which we prefer, anyway), we can help with anything data-related including data migration or warehousing, software development, website development, or just general techy problems. If this sounds like something you're interested in, please <a href="https://www.vaxagroup.com/contact">reach out</a> for a no-obligation chat with my team. We genuinely care about your success.
+</p>
+<p>
+I'm an avid (but amateur) photographer. I love shooting landscapes, particularly out in nature. You can find my work on <a href="{{ site.instagram_url }}">Instagram</a>. I also spend my spare time working on electronics, software hobby projects, 
+</p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Data Analytics</h3>
+
+		<ul>
+			<li>Dolor etiam magna etiam.</li>
+			<li>Sagittis lorem eleifend.</li>
+			<li>Felis dolore viverra.</li>
+		</ul>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Software Development</h3>
+		<p></p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">

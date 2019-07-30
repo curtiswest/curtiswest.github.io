@@ -5,6 +5,8 @@ excerpt: Let's get to know each other
 nav-menu: true
 tile_weight: 0
 show_tile: true
+image: assets/images/curtiswest_headshot.jpg
+tile_image: assets/images/curtiswest_headshot_lowres.jpg
 ---
 
 <!-- Main -->
@@ -15,6 +17,7 @@ show_tile: true
 		<header class="major">
 			<h1>About Me</h1>
 		</header>
+		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="Curtis West Headshot" /></span>{% endif %}
 		<!-- Content -->
 		<h2 id="content">A Brief Overview</h2>
 		<p>I'm a data analytics specialist and software engineer. I love the journey as much as the destination; I thrive on challenges that deliver results.</p>

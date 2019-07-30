@@ -5,6 +5,7 @@ excerpt: "A small collection of projects that I've worked on."
 nav-menu: true
 show_tile: true
 tile_weight: 10
+tile_image: ""
 ---
 
 <!-- Main -->

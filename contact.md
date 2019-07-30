@@ -4,6 +4,7 @@ title: Contact Me
 excerpt: Wanna chat?
 nav-menu: false
 tile_weight: 100
+tile_image: ""
 show_tile: true
 ---
 

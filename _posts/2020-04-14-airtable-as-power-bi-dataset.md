@@ -2,7 +2,8 @@
 layout: post
 title:  "How to use Airtable as a Power BI data source"
 date:   2020-04-14
-excerpt: ""
+excerpt: "A solution to extract data from Airtable tables that is compatible with scheduled refresh."
+image: /assets/images/pbi_blank_query.png
 tag:
 - portfolio
 - powerbi

@@ -5,6 +5,10 @@ email: curtis@curtiswest.net
 description: I'm a Data Analytics Specialist and Software Engineer. Motivated, strategically-aligned and outcomes-focussed.
 baseurl: '' # the subpath of your site, e.g. /blog
 url: "https://curtiswest.net" # the base hostname & protocol for your site
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-feed
 author: Curtis West
 street_address: 
 city: Brisbane
